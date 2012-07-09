@@ -9,7 +9,7 @@ public class ToyPopulationRenderer implements PopulationRenderer {
 
 	private JPanel panel; 
 	
-	// TODO !!!!!!!!!!!NOt keen on setView too much like Quolos
+	// TODO !!!!!!!!!!!NOt keen on setView too much 
 	public void setPanel(JPanel panelIn){ 
 		this.panel = panelIn;
 	}
